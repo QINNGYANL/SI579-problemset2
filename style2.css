@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+}
+
+#main_header{
+    font-style:italic;
+    font-weight: bold;
+    background-color: #0000FF;
+    color: #FFFFFF;
+}
+
+nav li{
+    display:inline;
+    background-color: skyblue;
+    padding: 10px;
+}
+
+section li{
+    display: block;
+}
